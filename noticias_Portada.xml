@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
-<!DOCTYPE root SYSTEM "fich.dtd">
-<root>
-    <noticias canal="Portada">
-        <noticia>La Ley de Amnistía supera su primer examen en el Pleno del Congreso en una votación nocturna</noticia>
-        <noticia>Feijóo compara el "fraude" de la ley de amnistía con el golpe de 23F y amenaza con crear una comisión de investigación</noticia>
-        <noticia>El PSOE defiende que la amnistía no implica "perdón" y acusa al PP de "engañar" para "meter miedo"</noticia>
-        <noticia>Abascal afea a Feijóo la condena por lo de Sánchez cuando Vox no se sumó al "linchamiento" por su foto con Dorado</noticia>
-        <noticia>La Asamblea General de la ONU aprueba una resolución que pide un "alto el fuego inmediato" en Gaza</noticia>
-        <noticia>Guerra Israel-Hamás en Gaza| Directo: Biden aconseja un cambio de gobierno en Israel</noticia>
-        <noticia>Los negociadores trabajan en una nueva declaración final de la COP28 tras las críticas</noticia>
-        <noticia>Gobierno eleva el 'techo de gasto' al récord de 199.120 millones en 2024 y mantiene el déficit en el 3%</noticia>
-        <noticia>Tusk logra el respaldo de la Cámara Baja polaca y es investido primer ministro</noticia>
-        <noticia>La Familia Real escoge una foto del día de la jura de la Constitución de la Princesa Leonor para felicitar la Navidad</noticia>
-    </noticias>
-</root>
+<!DOCTYPE noticias SYSTEM "fich.dtd">
+<noticias canal="Portada">
+    <noticia>EH Bildu y PSN acuerdan una moción de censura para desbancar a UPN de la Alcaldía de Pamplona</noticia>
+    <noticia>Sánchez arremete contra Weber (PPE) por repetir las "proclamas infundadas" del PP y esgrime que la amenaza es Vox</noticia>
+    <noticia>Puigdemont avisa a Sánchez de que "del incumplimiento nace la desconfianza" y se queja de no poder hablar catalán</noticia>
+    <noticia>Asociaciones de jueces dicen que los ataques de Junts al Supremo son "sumamente graves" y suponen una "peligrosa deriva"</noticia>
+    <noticia>La cumbre del clima llega a un acuerdo de transición para "abandonar" los combustibles fósiles</noticia>
+    <noticia>El PSOE denuncia a Vox y Abascal en la Fiscalía por su "clara incitación directa al odio y la discriminación"</noticia>
+    <noticia>Guerra Israel-Hamás en Gaza| Directo: Israel dice que la guerra contra Hamás continuará "con o sin apoyo internacional"</noticia>
+    <noticia>Aragonès acusa al CNI de espiarle y pide al Gobierno que levante el secreto por ser "una obligación moral"</noticia>
+    <noticia>La población de España supera los 48 millones de habitantes por el aumento de extranjeros, que ya son más de 6 millones</noticia>
+    <noticia>Bruselas desbloquea 10.200 millones a Hungría mientras Orbán amenaza con vetar la ayuda a Ucrania</noticia>
+</noticias>
